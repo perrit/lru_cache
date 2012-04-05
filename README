@@ -1,0 +1,4 @@
+lru_cache - Least Recently Used cache
+
+Credits to Austin Appleby for MurmurHash3
+http://code.google.com/p/smhasher/
